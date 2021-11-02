@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @astronautdavid
+- 👀 I’m interested in robotics, machine learning, automation, space
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on bionic prosthetics projects
+- 📫 You can reach me at @astronautdavid
